@@ -37,8 +37,8 @@ const projects = [
 const links = {
   linkedin: "https://www.linkedin.com/in/felipe-maior-a4287599/",
   github: "https://github.com/FelipeeGeise",
-  email: "felipe19852024@hotmail.com",
-  cv: "/Felipe souto desenv.soft.pdf",
+  email: "mailto:felipe19852024@hotmail.com",
+  cv: "/curriculum.pdf",
 };
 
 export default function Home() {
