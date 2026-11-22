@@ -38,7 +38,7 @@ const links = {
   linkedin: "https://www.linkedin.com/in/felipe-maior-a4287599/",
   github: "https://github.com/FelipeeGeise",
   email: "mailto:felipe19852024@hotmail.com",
-  cv: "/curriculum.pdf",
+  cv: "/curriculo.pdf",
 };
 
 export default function Home() {
